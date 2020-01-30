@@ -7,3 +7,4 @@ List db's
 \l
 \dt
 \c {db-name}
+\q exit
