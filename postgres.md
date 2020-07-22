@@ -8,3 +8,4 @@ Login
 * \dt
 * \c {db-name}
 * \q exit
+* \du - list users
