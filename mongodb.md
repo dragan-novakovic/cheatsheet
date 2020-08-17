@@ -1,1 +1,1 @@
-init
+* db.auth('admin','admin')
